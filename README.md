@@ -7,9 +7,9 @@ This repository offers a MERN (MongoDB, Express.js, React, Node.js) authenticati
 # Contributing
 
 1. Fork the repository.
-2. Clone to your local computer using https://github.com/<Your username>/web-template.git
+2. Clone to your local computer using https://github.com/{your_username}/web-template.git
 3. Add a `.env` file in the server folder with required information from envsample
-4. Open `http://127.0.0.1:3000/`
+4. Open [localhost](http://127.0.0.1:3000/)
 5. Now build something upon it.
 
 Suggestions are welcome!
